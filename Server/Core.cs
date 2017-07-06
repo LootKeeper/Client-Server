@@ -71,7 +71,7 @@ namespace Server
 
         static Task ProcessAcceptAsync(Socket client)
         {
-            // Make some action, registr clint or something else.
+            // Make some action, registr client or something else.
             //
             //
             // Read incoming stream.
